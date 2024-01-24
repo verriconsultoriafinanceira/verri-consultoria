@@ -172,9 +172,14 @@ body {
     cursor: pointer;
 }
 
+#featured-images img {
+    width: 100%;
+}
+
 #featured-images .col-md-4 > .banner-content{
     opacity: 0.8;
 }
+
 
 #featured-images .banner-content {
     position: absolute;
